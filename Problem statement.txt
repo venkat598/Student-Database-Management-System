@@ -1,0 +1,5 @@
+Student Database Management System
+
+The system will have a GUI for user interaction and backend database (MySQL). The system
+will allow user to insert student information in database and search student detail (name, address,
+subjects, electives, total credits,grades etc.)
